@@ -31,7 +31,9 @@
 
 ## [Fluids: Multiple submerged obstacles](https://github.com/rgmartin/Multiple-Obstacle-Superposer)
 * Surface waves vs Jetting on a Free surface with multiple obstacles submerged underneath.
-* 
+* Classification phase map with decision boundary between two fluid regimes: Jetting and Gravity Waves.
+
+
 ![image](https://media-exp1.licdn.com/dms/image/sync/C5627AQGa97eubCnCAg/articleshare-shrink_800/0/1650562125756?e=2147483647&v=beta&t=YGhjueApKmz0hu9Vvd8Zng8TyVt_FVrx6gLfx4WSTYI)
 
 ## [Logistic Regression Classifier](https://github.com/rgmartin/1-logistic_regression_classifier)
@@ -42,9 +44,12 @@ A logistic regression classifier has been implemented in two versions: one based
 ## [Clothes price prediction](https://github.com/rgmartin/3-Clothes_price_prediction)
 * This project shows an end-to-end implementation of image classification using Convolutional Neural Networks. The input data is a modified version of the FashionMNIST dataset where each image contains three articles and the sum of the prices is the label of the image. The VGG-16 structure was the most accurate amongst other types and was used to train a neural network. The learning rate, the momentum of the optimizer, the number of epochs and the batch sizes hyperparameters were tuned. The optimized values were lr = 10−2, momentum = 0:5, batch_size = 27 and n_epoch = 50 which achieved 96:7% of accuracy on the validation set.
 
+
 ![image](https://media-exp1.licdn.com/dms/image/sync/C5627AQGqTdYiNcmRfA/articleshare-shrink_800/0/1650562125759?e=2147483647&v=beta&t=YpFmN_vI9yXNTUtdiouHUVYnx1IAYDZgA-pLJxF_5rE)
 
 ## [subreddit posts classifier](https://github.com/rgmartin/2--Subreddit-posts-classifier)
 * In this project, different Machine Learning Classifiers have been implemented to process text from Reddit and classify each post of the data. Two different Naive Bayes algorithms have been implemented from scratch. In addition, several SciKit-Learn based Machine Learning algorithms have also been used. All these implementations have been compared in terms of accuracy and running time by changing the principal hyperparameters of each one. It is concluded that the best algorithm is Logistic Regression for the given data.
+
+* The following figure shows the confussion matrix obtained for the classification process:
 
 ![image](https://media-exp1.licdn.com/dms/image/sync/C5627AQEQvViUt0g1xw/articleshare-shrink_800/0/1650562125959?e=2147483647&v=beta&t=T_x5WpEEedZdhLcS6Uq3bu_Lvk_nvzeFRZTjbiuFnVQ)
