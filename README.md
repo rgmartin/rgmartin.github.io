@@ -1,6 +1,8 @@
 # Rubert Portfolio
 
-## [Inbound tourism in Greece: 2010 - 2020](https://github.com/rgmartin/greece_tourism_project)
+## Data science and Machine Learning Projects
+
+### [Inbound tourism in Greece: 2010 - 2020](https://github.com/rgmartin/greece_tourism_project)
 * collaboration with [FrankJKB](https://github.com/FrankJKB)
 * Scrapped inbound tourism information from Government Greece Tourism website.
 * Implemented interactive dashboard with Dash and Plotly to show relevant tourism statistics.
@@ -8,7 +10,7 @@
 <img src="https://github.com/rgmartin/greece_tourism_project/blob/main/dashboard_Greece.png" width="800">
 
 
-## [Time series forecasting](https://github.com/rgmartin/ECSE552-HW4/blob/main/Code.ipynb)
+### [Time series forecasting](https://github.com/rgmartin/ECSE552-HW4/blob/main/Code.ipynb)
 * collaboration with [dgsmith1988](https://github.com/dgsmith1988) and [jansont](https://github.com/jansont)
 * Jointly developed three deep learning architechtures for timeforecsting: Fully connected dense network, LSTM REgressor, Transformer Encoder based model
 * Multivariate prediction of weather forecast values. The following image shows the LSTM model prediction and true value for pressure measurements:
@@ -18,7 +20,7 @@
 ![image](https://user-images.githubusercontent.com/14916680/164512476-151b0c2e-5c5d-4b7f-a6e6-02207eee574f.png)
 
 
-## [Audio analysis and Spoken language classification](https://github.com/rgmartin/ECSE-552-Final-Project)
+### [Audio analysis and Spoken language classification](https://github.com/rgmartin/ECSE-552-Final-Project)
 * collaboration with [dgsmith1988](https://github.com/dgsmith1988), [maxsolomonhenry](https://github.com/maxsolomonhenry), [emmanuelwilson](https://github.com/emmanuelwilson) and [Achaebe](https://github.com/Achaebe) for the Final Project of McGill Deep Learning Course ECSE-552
 * AutoEncoder reconstrutction of spoken language samples:
 
@@ -29,27 +31,41 @@
 
 ![image](https://user-images.githubusercontent.com/14916680/164515374-e2184ae2-31f3-43c4-a595-ac1358a02d07.png)
 
-## [Fluids: Multiple submerged obstacles](https://github.com/rgmartin/Multiple-Obstacle-Superposer)
+### [Fluids: Multiple submerged obstacles](https://github.com/rgmartin/Multiple-Obstacle-Superposer)
 * Surface waves vs Jetting on a Free surface with multiple obstacles submerged underneath.
 * Classification phase map with decision boundary between two fluid regimes: Jetting and Gravity Waves.
 
 
 ![image](https://media-exp1.licdn.com/dms/image/sync/C5627AQGa97eubCnCAg/articleshare-shrink_800/0/1650562125756?e=2147483647&v=beta&t=YGhjueApKmz0hu9Vvd8Zng8TyVt_FVrx6gLfx4WSTYI)
 
-## [Logistic Regression Classifier](https://github.com/rgmartin/1-logistic_regression_classifier)
+### [Logistic Regression Classifier](https://github.com/rgmartin/1-logistic_regression_classifier)
 A logistic regression classifier has been implemented in two versions: one based on the method of Loss Minimization through Gradient Descent; the other based on Likelihood Maximization through Gradient Ascent. The algorithms have been applied to two datasets: Hepatitis and Bankruptcy. Different techniques of data analysis have been applied to the data. Experiments have been conducted to determine the balance between accuracy and running time by changing the relative tolerance of the algorithms and the learning rate. Further feature engineering has been applied to the data in order to increase the obtained accuracy of the models
 
 ![image](https://media-exp1.licdn.com/dms/image/sync/C5627AQF5i639Ej6ICQ/articleshare-shrink_800/0/1650562125855?e=2147483647&v=beta&t=4lePlFZz756eq4z_Z1ENaCpw50MWJITtd1C-8irRokw)
 
-## [Clothes price prediction](https://github.com/rgmartin/3-Clothes_price_prediction)
+### [Clothes price prediction](https://github.com/rgmartin/3-Clothes_price_prediction)
 * This project shows an end-to-end implementation of image classification using Convolutional Neural Networks. The input data is a modified version of the FashionMNIST dataset where each image contains three articles and the sum of the prices is the label of the image. The VGG-16 structure was the most accurate amongst other types and was used to train a neural network. The learning rate, the momentum of the optimizer, the number of epochs and the batch sizes hyperparameters were tuned. The optimized values were lr = 10−2, momentum = 0:5, batch_size = 27 and n_epoch = 50 which achieved 96:7% of accuracy on the validation set.
 
 
 ![image](https://media-exp1.licdn.com/dms/image/sync/C5627AQGqTdYiNcmRfA/articleshare-shrink_800/0/1650562125759?e=2147483647&v=beta&t=YpFmN_vI9yXNTUtdiouHUVYnx1IAYDZgA-pLJxF_5rE)
 
-## [subreddit posts classifier](https://github.com/rgmartin/2--Subreddit-posts-classifier)
+### [subreddit posts classifier](https://github.com/rgmartin/2--Subreddit-posts-classifier)
 * In this project, different Machine Learning Classifiers have been implemented to process text from Reddit and classify each post of the data. Two different Naive Bayes algorithms have been implemented from scratch. In addition, several SciKit-Learn based Machine Learning algorithms have also been used. All these implementations have been compared in terms of accuracy and running time by changing the principal hyperparameters of each one. It is concluded that the best algorithm is Logistic Regression for the given data.
 
 * The following figure shows the confussion matrix obtained for the classification process:
 
 ![image](https://media-exp1.licdn.com/dms/image/sync/C5627AQEQvViUt0g1xw/articleshare-shrink_800/0/1650562125959?e=2147483647&v=beta&t=T_x5WpEEedZdhLcS6Uq3bu_Lvk_nvzeFRZTjbiuFnVQ)
+
+
+## Physics projects
+
+###  [Electronic Turing Machine](https://github.com/rgmartin/Electronic-Turing-Machine)
+<a href="https://github.com/rgmartin/Electronic-Turing-Machine/blob/main/La%20Maquina%20de%20Turing.pdf" target="_top">Final Report (in Spanish)</a>
+
+
+Turing Machine is a mathematical model designed to study the limits of computability. This work discusses the physical principles on which this model is based and its viability. In particular, an implementation of an electronic circuit that simulates a Turing Machine is desrcibed in this work.
+This work was submitted to the XXIX Students Scientific Workshop of the Faculty of Physics of the University of Havana, held on May 16 and 17, 2013.
+
+Preview of the electronic circuit:
+
+![](https://github.com/rgmartin/Electronic-Turing-Machine/blob/main/circuits/general.jpg)
