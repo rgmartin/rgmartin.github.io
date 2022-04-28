@@ -59,7 +59,7 @@ A logistic regression classifier has been implemented in two versions: one based
 
 ## Physics projects
 
-###  [Electronic Turing Machine](https://github.com/rgmartin/Electronic-Turing-Machine)
+###  [Electronic Turing Machine (2012)](https://github.com/rgmartin/Electronic-Turing-Machine)
 <a href="https://github.com/rgmartin/Electronic-Turing-Machine/blob/main/La%20Maquina%20de%20Turing.pdf" target="_top">Final Report (in Spanish)</a>
 
 
