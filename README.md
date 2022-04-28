@@ -1,6 +1,15 @@
 # Rubert Portfolio
 
-## Data science and Machine Learning Projects
+
+
+
+1. [Data science and Machine Learning Projects](#data-science)
+2. [Fluid dynamics](#fluids)
+3. [Nuclear engineering](#nuclear)
+4. [Physics projects](#physics)
+
+
+## Data science and Machine Learning Projects <a name="data-science"></a>
 
 ### [Inbound tourism in Greece: 2010 - 2020](https://github.com/rgmartin/greece_tourism_project)
 * collaboration with [FrankJKB](https://github.com/FrankJKB)
@@ -31,12 +40,7 @@
 
 ![image](https://user-images.githubusercontent.com/14916680/164515374-e2184ae2-31f3-43c4-a595-ac1358a02d07.png)
 
-### [Fluids: Multiple submerged obstacles](https://github.com/rgmartin/Multiple-Obstacle-Superposer)
-* Surface waves vs Jetting on a Free surface with multiple obstacles submerged underneath.
-* Classification phase map with decision boundary between two fluid regimes: Jetting and Gravity Waves.
 
-
-![image](https://media-exp1.licdn.com/dms/image/sync/C5627AQGa97eubCnCAg/articleshare-shrink_800/0/1650562125756?e=2147483647&v=beta&t=YGhjueApKmz0hu9Vvd8Zng8TyVt_FVrx6gLfx4WSTYI)
 
 ### [Logistic Regression Classifier](https://github.com/rgmartin/1-logistic_regression_classifier)
 A logistic regression classifier has been implemented in two versions: one based on the method of Loss Minimization through Gradient Descent; the other based on Likelihood Maximization through Gradient Ascent. The algorithms have been applied to two datasets: Hepatitis and Bankruptcy. Different techniques of data analysis have been applied to the data. Experiments have been conducted to determine the balance between accuracy and running time by changing the relative tolerance of the algorithms and the learning rate. Further feature engineering has been applied to the data in order to increase the obtained accuracy of the models
@@ -56,8 +60,19 @@ A logistic regression classifier has been implemented in two versions: one based
 
 ![image](https://media-exp1.licdn.com/dms/image/sync/C5627AQEQvViUt0g1xw/articleshare-shrink_800/0/1650562125959?e=2147483647&v=beta&t=T_x5WpEEedZdhLcS6Uq3bu_Lvk_nvzeFRZTjbiuFnVQ)
 
+## Fluid dynamics projects  <a name="fluids"></a>
 
-## Physics projects
+### [Fluids: Multiple submerged obstacles](https://github.com/rgmartin/Multiple-Obstacle-Superposer)
+* Surface waves vs Jetting on a Free surface with multiple obstacles submerged underneath.
+* Classification phase map with decision boundary between two fluid regimes: Jetting and Gravity Waves.
+
+
+![image](https://media-exp1.licdn.com/dms/image/sync/C5627AQGa97eubCnCAg/articleshare-shrink_800/0/1650562125756?e=2147483647&v=beta&t=YGhjueApKmz0hu9Vvd8Zng8TyVt_FVrx6gLfx4WSTYI)
+
+## Nuclear engineering projects  <a name="nuclear"></a>
+
+
+## Physics projects <a name="physics"></a>
 
 ###  [Electronic Turing Machine (2012)](https://github.com/rgmartin/Electronic-Turing-Machine)
 <a href="https://github.com/rgmartin/Electronic-Turing-Machine/blob/main/La%20Maquina%20de%20Turing.pdf" target="_top">Final Report (in Spanish)</a>
@@ -69,3 +84,8 @@ This work was submitted to the XXIX Students Scientific Workshop of the Faculty 
 Preview of the electronic circuit:
 
 ![](https://github.com/rgmartin/Electronic-Turing-Machine/blob/main/circuits/general.jpg)
+
+### [Cluster Algorithms (2013)](https://github.com/rgmartin/cluster-algorithms)
+
+Metropolis Algorithm (Monte Carlo) has a critical delay when used for simulating the Ising Model near Curie Temperatures (Tc = 2.23K). This work studies the causes of this delay and the main computational algorithms that have been developed to avoid it. Comparisons between different Cluster Algorithms are presented, and against the classical Metropolis Algorithm. Both Swendesn-Wang and Wolff algorithms prove to be more efficient near Tc temperatures than Metropolis.
+
