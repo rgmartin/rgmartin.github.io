@@ -62,12 +62,29 @@ A logistic regression classifier has been implemented in two versions: one based
 
 ## Fluid dynamics projects  <a name="fluids"></a>
 
-### [Fluids: Multiple submerged obstacles](https://github.com/rgmartin/Multiple-Obstacle-Superposer)
+### [ Multiple submerged obstacles (2022)](https://github.com/rgmartin/Multiple-Obstacle-Superposer)
 * Surface waves vs Jetting on a Free surface with multiple obstacles submerged underneath.
 * Classification phase map with decision boundary between two fluid regimes: Jetting and Gravity Waves.
 
 
 ![image](https://media-exp1.licdn.com/dms/image/sync/C5627AQGa97eubCnCAg/articleshare-shrink_800/0/1650562125756?e=2147483647&v=beta&t=YGhjueApKmz0hu9Vvd8Zng8TyVt_FVrx6gLfx4WSTYI)
+
+
+### [Jetting onset on flow past a cylindrical obstacle (Experiments)]
+
+
+
+
+### [Surface disturbances on a flow past a cylindrical obstacle (Analytical method)](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/freesurface-disturbances-due-to-the-submersion-of-a-cylindrical-obstacle/40AE3E5C34136EAD62D57A72C7A564F3)
+
+Published as :Martín Pardo, R., & Nedić, J. (2021). Free-surface disturbances due to the submersion of a cylindrical obstacle. Journal of Fluid Mechanics, 926, A1. doi:10.1017/jfm.2021.462
+
+We explore the initial perturbations that form on a liquid free surface as a result of the submersion of a circular cylinder beneath the surface, a scenario that arises in a number of diverse applications. The behaviour of the free surface is determined by transforming the equations of motion of the system via the Wehausen scheme, to variables for the free surface. A small-time series expansion is utilized to construct a recursive scheme that can be implemented numerically, and the time frame over which this approximation is valid is analysed. The resulting numerical model allows one to extend the results in the literature to study arbitrary cylinder sizes, including those where the cylinder is close to the free surface, and arbitrary cylinder motions. Of particular interest in this study was identifying the conditions under which strong jets would appear, and those were the free surface exhibited gravity waves. The formation of a central jet is found to be related to the growth of secondary, nonlinear waves, which rapidly merge as the obstacle is submerged. Classification maps are presented as a function of obstacle size and submersion speed, to identify the conditions which lead to jetting. Furthermore, the acceleration profile of the cylinder is shown to significantly affect the conditions under which jets form, which we argue is due to the rate at which energy is injected into the system.
+
+
+Graphical abstract:
+
+![image](https://static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0022112021004626/resource/name/S0022112021004626_figAb.png?pub-status=live)
 
 ## Nuclear engineering projects  <a name="nuclear"></a>
 
