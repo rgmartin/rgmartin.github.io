@@ -70,9 +70,31 @@ A logistic regression classifier has been implemented in two versions: one based
 ![image](https://media-exp1.licdn.com/dms/image/sync/C5627AQGa97eubCnCAg/articleshare-shrink_800/0/1650562125756?e=2147483647&v=beta&t=YGhjueApKmz0hu9Vvd8Zng8TyVt_FVrx6gLfx4WSTYI)
 
 
-### [Jetting onset on flow past a cylindrical obstacle (Experiments)]
+### Liquid surface profiler (2021)
 
+Created an obstacle detection and surface tracker suite with GUI. Large video processing capabilities. Batch processing of multiple experiments. 
 
+![image](https://media-exp1.licdn.com/dms/image/C562DAQHiGVNke4_2KQ/profile-treasury-image-shrink_8192_8192/0/1624657728138?e=2147483647&v=beta&t=MrdPozJ-29fyKwh9YkytA2BIFNlz6xhNia83HTBJyrA)
+
+### [Jetting onset on flow past a cylindrical obstacle - experiments. (2021)]
+
+(research article submitted for revision)
+
+A novel experiment is presented to study the initial disturbances on a free surface due to the constant acceleration
+of liquid around a submerged obstacle. The surface response to different obstacle sizes, initial surface heights and
+fluid velocities is measured using high-speed videography. Perturbations observed on the surface are classified into
+either jetting or gravity waves by measuring the steepness of growing liquid columns. A classification phase map
+between these two regimes is obtained and compared with analytical results by Martín Pardo and Nedić (2021). The
+agreement between decision boundaries is good for high Froude numbers (high fluid velocities) but deteriorates at
+lower velocities, where viscosity and surface tension effects (not considered in the analytical model) have a greater
+predominance. The surface profile and perturbation amplitude measured in experiments are also compared against
+this analytical model. In all cases, the model accurately predicts the corresponding experimental results at the
+beginning of the motion, but the prediction error increases with time. It is also observed that faster moving surfaces
+that lead to the onset of jetting have greater prediction accuracies and longer validity times of the predictions
+
+Nonlinear surface features:
+
+![image](https://user-images.githubusercontent.com/14916680/165783852-8223801e-63ea-41da-9458-da29cf2afedc.png)
 
 
 ### [Surface disturbances on a flow past a cylindrical obstacle (Analytical method)](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/freesurface-disturbances-due-to-the-submersion-of-a-cylindrical-obstacle/40AE3E5C34136EAD62D57A72C7A564F3)
