@@ -16,6 +16,7 @@
 * Scrapped inbound tourism information from Government Greece Tourism website.
 * Implemented interactive dashboard with Dash and Plotly to show relevant tourism statistics.
 * Data cleaning and feature selection with pandas.
+
 <img src="https://github.com/rgmartin/greece_tourism_project/blob/main/dashboard_Greece.png" width="800">
 
 
