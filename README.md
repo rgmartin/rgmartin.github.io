@@ -3,10 +3,10 @@
 
 
 
-1. [Data science and Machine Learning Projects](#data-science)
+1. [Data science and Machine Learning](#data-science)
 2. [Fluid dynamics](#fluids)
 3. [Nuclear engineering](#nuclear)
-4. [Physics projects](#physics)
+4. [Physics](#physics)
 
 
 ## Data science and Machine Learning Projects <a name="data-science"></a>
