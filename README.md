@@ -17,7 +17,8 @@
 * Implemented interactive dashboard with Dash and Plotly to show relevant tourism statistics.
 * Data cleaning and feature selection with pandas.
 
-<img src="https://github.com/rgmartin/greece_tourism_project/blob/main/dashboard_Greece.png" width="800">
+![image](https://user-images.githubusercontent.com/14916680/168480707-54d45b25-acbf-4fb3-994a-5ebce60b56b2.png)
+
 
 
 ### [Time series forecasting](https://github.com/rgmartin/ECSE552-HW4/blob/main/Code.ipynb)
