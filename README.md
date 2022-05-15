@@ -142,7 +142,8 @@ y citvap2relap are developed to allow for the information flow between the two c
 
 Power distribution - OPAL reactor:
 
-![](https://github.com/rgmartin/neutronic-thermal-coupling/blob/main/3_MOdeloArtisticoRELAP.jpg)
+![image](https://user-images.githubusercontent.com/14916680/168481050-45f959d4-56e6-40dd-a8d7-47931808ac8c.png)
+
 
 
 ## Physics projects <a name="physics"></a>
