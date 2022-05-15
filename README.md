@@ -157,7 +157,9 @@ This work was submitted to the XXIX Students Scientific Workshop of the Faculty 
 
 Preview of the electronic circuit:
 
-![](https://github.com/rgmartin/Electronic-Turing-Machine/blob/main/circuits/general.jpg)
+![image](https://user-images.githubusercontent.com/14916680/168481175-7cd58796-5056-4fba-befe-f4b1241bf14d.png)
+
+
 
 ### [Cluster Algorithms (2013)](https://github.com/rgmartin/cluster-algorithms)
 
